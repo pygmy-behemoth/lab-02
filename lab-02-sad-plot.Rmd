@@ -15,7 +15,7 @@ library(tidyverse)
 staff <- read_csv("data/instructional-staff.csv")
 ```
 
-
+staff <- read_csv("data/instructional-staff.csv")
 --------
 
 
