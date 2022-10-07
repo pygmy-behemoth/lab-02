@@ -48,10 +48,10 @@ staff_long <- instructional_staff %>%
 
 ### Exercise 3
 
-*Remove this text and add your answer here.*
+It was.
 
 ```{r staff-long-inspect}
-# remove this comment and add your code here
+nrow(staff_long)
 ```
 
 
